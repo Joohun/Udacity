@@ -1,1 +1,2 @@
-# Udacity
+# Udacity project
+Wine quality analysis
